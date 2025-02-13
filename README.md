@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub+ki+Duniya!;Exploring+the+world+of+code+%F0%9F%9A%80;Let's+build+something+awesome+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
-<img src="[https://your-gif-url.com/yourgif.gif](https://qph.cf2.quoracdn.net/main-qimg-80ba77c342ac34a32b78ee46cf49b94a)" width="300" height="200" />
+<img src="https://qph.cf2.quoracdn.net/main-qimg-80ba77c342ac34a32b78ee46cf49b94a"/>
 
 ---
 
